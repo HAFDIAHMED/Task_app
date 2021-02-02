@@ -58,13 +58,5 @@ flutter test
 - [provider](https://pub.dev/packages/provider) ^4.3.2+2
 
 
-## Author
 
-👤 **Robby Rahmana**
-
-* Github: [@robbyrahmana](https://github.com/robbyrahmana)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
 

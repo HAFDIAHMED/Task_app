@@ -53,7 +53,3 @@ flutter test
 - [path](https://pub.dev/packages/path) ^1.7.0
 - [intl](https://pub.dev/packages/intl) ^0.16.1
 - [provider](https://pub.dev/packages/provider) ^4.3.2+2
-
-
-
-

@@ -1,7 +1,5 @@
 # To-do List App 👋
 
-
-
 # Flutter Version
 Flutter 1.22.3
 

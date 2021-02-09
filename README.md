@@ -42,7 +42,6 @@ flutter build apk
 flutter test
 ```
 
-
 # Plugins
 
 - [moor](https://pub.dev/packages/moor) ^3.4.0

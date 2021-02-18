@@ -44,6 +44,7 @@ flutter test
 
 # Plugins
 
+
 - [moor](https://pub.dev/packages/moor) ^3.4.0
 - [sqlite3_flutter_libs](https://pub.dev/packages/sqlite3_flutter_libs) ^0.2.0
 - [path_provider](https://pub.dev/packages/path_provider) ^1.6.24
